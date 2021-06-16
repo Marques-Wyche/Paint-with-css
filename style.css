@@ -1,0 +1,21 @@
+h1 {
+  /* make the background-color the color of the sky */
+  background-color: aqua
+}
+
+h2 {background-color: aquamarine
+  /* make the background-color your favorite color */
+}
+
+h3 {background-color: tomato
+
+  /* make the background-color tomato and change the color property to make the text white */
+  currentColor: white
+}
+
+p {background-color: cornflowerblue
+  /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
+}
+small {background-color: blue
+
+}
